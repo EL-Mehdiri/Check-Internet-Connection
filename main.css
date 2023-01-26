@@ -3,6 +3,9 @@
     margin: 0;
 }
 
+.hide{
+    display: none;
+}
 
 body{
     text-transform: capitalize;
@@ -41,6 +44,3 @@ button{
     margin-top: 10px;
 }
 
-.hide{
-    display: none;
-}
